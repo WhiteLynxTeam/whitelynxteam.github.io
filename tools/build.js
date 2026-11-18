@@ -6,7 +6,7 @@ const path = require("path");
 const ROOT = path.resolve(__dirname, "..");
 const SITE = "https://whitelynx.team";
 const APP = "https://lynx3d.app";
-const MAIL = "hello@whitelynx.team";
+const MAIL = "info@whitelynx.team";
 const YEAR = 2026;
 
 const T = {
