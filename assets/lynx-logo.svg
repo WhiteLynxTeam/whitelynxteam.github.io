@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="White Lynx: белая рысь в 3D-очках">
+  <!-- уши с кисточками -->
+  <path d="M48 112 L64 20 L118 66 Z" fill="#e3e8ef" stroke="#c3cad4" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M192 112 L176 20 L122 66 Z" fill="#e3e8ef" stroke="#c3cad4" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M64 92 L70 46 L100 72 Z" fill="#f4b8c4"/>
+  <path d="M176 92 L170 46 L140 72 Z" fill="#f4b8c4"/>
+  <path d="M58 52 L64 20 L78 32 Z" fill="#2a2f3a"/>
+  <path d="M182 52 L176 20 L162 32 Z" fill="#2a2f3a"/>
+  <path d="M60 24 L58 0 L70 22 Z" fill="#2a2f3a"/>
+  <path d="M180 24 L182 0 L170 22 Z" fill="#2a2f3a"/>
+  <!-- голова с бакенбардами -->
+  <path d="M120 54 C170 54 196 86 198 122 L208 150 L196 152 L216 178 L198 180 L210 204 L184 198 C166 214 144 224 120 224 C96 224 74 214 56 198 L30 204 L42 180 L24 178 L44 152 L32 150 L42 122 C44 86 70 54 120 54 Z" fill="#f4f6f9" stroke="#c3cad4" stroke-width="3"/>
+  <ellipse cx="120" cy="176" rx="32" ry="22" fill="#ffffff"/>
+  <!-- полоски на лбу и щеках -->
+  <g fill="none" stroke="#9aa3b2" stroke-width="4" stroke-linecap="round">
+    <path d="M108 68 v14"/>
+    <path d="M120 64 v18"/>
+    <path d="M132 68 v14"/>
+    <path d="M46 170 q14 2 24 12"/>
+    <path d="M194 170 q-14 2 -24 12"/>
+  </g>
+  <!-- 3D-очки: красный и голубой -->
+  <g fill="none" stroke="#1f2430" stroke-width="6" stroke-linecap="round">
+    <path d="M58 114 L42 108"/>
+    <path d="M182 114 L198 108"/>
+  </g>
+  <rect x="56" y="98" width="128" height="42" rx="12" fill="#1f2430"/>
+  <rect x="63" y="105" width="52" height="28" rx="8" fill="#ef4444"/>
+  <rect x="125" y="105" width="52" height="28" rx="8" fill="#22d3ee"/>
+  <ellipse cx="76" cy="112" rx="7" ry="3" fill="#ffffff" opacity="0.55"/>
+  <ellipse cx="138" cy="112" rx="7" ry="3" fill="#ffffff" opacity="0.55"/>
+  <!-- нос и рот -->
+  <path d="M109 156 L131 156 L120 168 Z" fill="#f29bb0"/>
+  <g fill="none" stroke="#6b7280" stroke-width="3" stroke-linecap="round">
+    <path d="M120 168 q-8 10 -18 6"/>
+    <path d="M120 168 q8 10 18 6"/>
+  </g>
+</svg>
